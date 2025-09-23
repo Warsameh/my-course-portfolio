@@ -1,12 +1,12 @@
 # my-course-portfolio
 
-Welcome to my academic portfolio for (Cep 146 NBB)!
+Welcome to my academic portfolio for Cep 146 NBB!
  
 ## About Me
-- Name: (Abdullah Ali)
-- Program: (CEP 146)
-- Year: (Fall 2025)
-- Favorite Programming Language: (C)
+- Name: Abdullah Ali
+- Program: CEP 146
+- Year: Fall 2025
+- Favorite Programming Language: C
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
