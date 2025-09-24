@@ -4,7 +4,7 @@ Welcome to my academic portfolio for Cep 146 NBB!
  
 ## About Me
 - Name: Abdullah Ali
-- Program: CEP 146
+- Program: CPAC
 - Year: Fall 2025
 - Favorite Programming Language: C
  
